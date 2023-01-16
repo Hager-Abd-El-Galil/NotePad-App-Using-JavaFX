@@ -7,5 +7,6 @@
 #### Edit -> Cut , Copy , Paste , Delete , Select All 
 ![notepad3](https://user-images.githubusercontent.com/81237428/212718363-cc216ad3-31de-4c2c-93ea-9e4d41f77dbf.png)
 #### Help -> About 
-![notepad4](https://user-images.githubusercontent.com/81237428/212718367-e5158483-9293-40fc-b333-2978b5375c6c.png)
+![notepad4](https://user-images.githubusercontent.com/81237428/212719940-3dee457a-c227-4e70-bcd9-706fecc16b7c.png)
+
 
